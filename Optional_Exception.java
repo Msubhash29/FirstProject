@@ -52,8 +52,7 @@ import java.util.*
 				
 				return;
 			}*/
-	System.out.println(result);
-	  
+	
 		List<Optional_Exception> result = new ArrayList<>();
 		Scanner sc=new Scanner(System.in);
 		String name="Subhash";
